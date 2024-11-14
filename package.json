@@ -1,10 +1,10 @@
 {
-  "name": "feed-generator",
+  "name": "positivity-hose",
   "version": "1.0.0",
-  "description": "atproto feed generator starter kit",
+  "description": "Bluesky feed that filters out all but most positive posts",
   "main": "index.js",
-  "repository": "git@github.com:bluesky-social/feed-generator.git",
-  "author": "dholms <dtholmgren@gmail.com>",
+  "repository": "git@github.com:thunderweasel/positivity-hose.git",
+  "author": "Ryan McLeod <excitinglyboring@gmail.com>",
   "license": "MIT",
   "scripts": {
     "publishFeed": "ts-node scripts/publishFeedGen.ts",
